@@ -1,3 +1,5 @@
+/*336630201	Sep/02/2025 19:45UTC+6	Early_hammie	A - Way Too Long Words	GNU C11	Accepted	77 ms	100 KB*/
+
 #include <stdio.h>
 #include <string.h>
 int main()
