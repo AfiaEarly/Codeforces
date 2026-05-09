@@ -1,3 +1,5 @@
+/*336836267	Sep/04/2025 12:58UTC+6	Early_hammie	A - Word	GNU C11	Accepted	92 ms	100 KB*/
+
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
