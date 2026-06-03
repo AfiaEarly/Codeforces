@@ -18,7 +18,6 @@ int main()
     {
         cin >> cards[i];
     }
-    bool sreeja = true;
     for (int i = 0; i < n; i++)
 
     {
@@ -35,7 +34,7 @@ int main()
             cards.pop_back();
         }
 
-        if (sreeja)
+        if (i % 2 == 0)
         {
             SreejaScore += score;
         }
