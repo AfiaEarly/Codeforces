@@ -1,4 +1,5 @@
-/*377288402	Jun/04/2026 19:25UTC+6	Early_hammie	61A - Ultra-Fast Mathematician	C++23 (GCC 14-64, msys2)	Accepted	46 ms	0 KB*/
+/*
+377288402	Jun/04/2026 19:25UTC+6	Early_hammie	61A - Ultra-Fast Mathematician	C++23 (GCC 14-64, msys2)	Accepted	46 ms	0 KB*/
 
 #include <iostream>
 #include <vector>
