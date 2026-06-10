@@ -1,3 +1,5 @@
+/*377976027	Jun/09/2026 21:55UTC+6	Early_hammie	A - Sasha and the Beautiful Array	C++23 (GCC 14-64, msys2)	Accepted	109 ms	0 KB*/
+
 #include <iostream>
 #include <algorithm>
 #include <vector>
