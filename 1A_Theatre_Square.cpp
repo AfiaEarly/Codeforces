@@ -1,3 +1,5 @@
+/*377939637	Jun/09/2026 20:59UTC+6	Early_hammie	A - Theatre Square	C++23 (GCC 14-64, msys2)	Accepted	31 ms	0 KB*/
+
 #include <iostream>
 #include <math.h>
 
