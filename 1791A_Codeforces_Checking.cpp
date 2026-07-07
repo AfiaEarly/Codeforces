@@ -21,7 +21,7 @@ int main()
                 found = true;
                 break;
             }
-        }
+                }
         if (!found)
         {
             cout << "NO" << endl;
