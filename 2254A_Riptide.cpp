@@ -1,4 +1,4 @@
-/*385652950	Aug/04/2026 22:13UTC+6	Early_hammie	2254A - Riptide	C++23 (GCC 14-64, msys2)	Accepted	31 ms	0 KB*/
+/*385652950	Aug/04/2026 22:13UTC+6	Early_hammie	2254A - Riptide	C++23 (GCC 14-64, msys2) Accepted	31 ms	0 KB*/
 
 #include <iostream>
 #include <algorithm>
